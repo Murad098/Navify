@@ -1,7 +1,7 @@
 <p align="center">
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 </p>
 
 <h1 align="center">🌟 Navify — Flutter Navigation Demo</h1>
